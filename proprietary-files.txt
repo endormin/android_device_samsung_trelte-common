@@ -167,7 +167,7 @@ vendor/lib/libWVStreamControlAPI_L1.so
 lib/libsecnativefeature.so
 lib/libsec-ril.so
 
-### FINGERPRINT
+### Fingerprint
 bin/vcsFPService
 lib/libfpasmtztransport.so
 lib/libvalAuth.so
